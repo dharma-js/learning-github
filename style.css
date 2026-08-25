@@ -3,6 +3,13 @@ body {
   color: black;
 }
 
+.center-container {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 button {
   padding: 15px 20px;
   background-color: black;
@@ -19,13 +26,6 @@ h2 {
 .para {
   color: blue;
   font-size: 20px;
-}
-
-.center-container {
-  height: 100vh;
-  display: flex;
-  justify-content: center;
-  align-items: center;
 }
 
 .btn {
