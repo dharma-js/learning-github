@@ -5,12 +5,14 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
+  flex-direction: column;
 }
 
 button {
   padding: 15px 20px;
   background-color: black;
   color: white;
+  font-size: 20px;
   border-radius: 12px;
 }
 
