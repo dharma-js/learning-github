@@ -20,3 +20,18 @@ h2 {
   color: blue;
   font-size: 20px;
 }
+
+.center-container {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.btn {
+  padding: 15px 20px;
+  background-color: chocolate;
+  color: black;
+  font-size: 20px;
+  border-radius: 12px;
+}
